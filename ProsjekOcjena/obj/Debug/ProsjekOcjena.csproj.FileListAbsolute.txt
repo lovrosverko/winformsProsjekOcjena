@@ -1,0 +1,10 @@
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\bin\Debug\ProsjekOcjena.exe.config
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\bin\Debug\ProsjekOcjena.exe
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\bin\Debug\ProsjekOcjena.pdb
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\obj\Debug\ProsjekOcjena.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\obj\Debug\ProsjekOcjena.Form1.resources
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\obj\Debug\ProsjekOcjena.Properties.Resources.resources
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\obj\Debug\ProsjekOcjena.csproj.GenerateResource.cache
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\obj\Debug\ProsjekOcjena.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\obj\Debug\ProsjekOcjena.exe
+C:\Users\Lovro\source\repos\ProsjekOcjena\ProsjekOcjena\obj\Debug\ProsjekOcjena.pdb
