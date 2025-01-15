@@ -31,7 +31,7 @@ namespace ProsjekOcjena
                         "ideš računati prosjek!", "NEGATIVNO!", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     
                 }
-                else if (ocjena <= 0)
+                else if (ocjena <= 0 || ocjena > 5)
                 {
                     MessageBox.Show("Ocjena ne može biti nula ili manja od nule!", "Pogrešan unos!", MessageBoxButtons.OK, 
                         MessageBoxIcon.Warning);
